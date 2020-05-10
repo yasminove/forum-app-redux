@@ -44,3 +44,4 @@ function map(coll, f) {
 	  
 	 return acc;
 }
+  ***
