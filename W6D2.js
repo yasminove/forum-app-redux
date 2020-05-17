@@ -1,3 +1,6 @@
+// 0. create a new folder inside your warmUps folder and name it W6D1
+// Inside this folder do the following:
+
 // 1. Create a HTML file, add 3 text fields to it next to each other, 1 button below them, 1 headline below the button
 
 // 2. Create a JS file and connect it to the HTML
