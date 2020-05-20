@@ -1,4 +1,4 @@
-// 0. create a new folder inside your warmUps folder and name it W6D3
+// 0. create a new folder inside your warmUps folder and name it W6D5
 // Inside this folder do the following:
 // Create an HTML, CSS and JS files and connect them together
 // Create two buttons one that says “Left” and one that say “Right”
